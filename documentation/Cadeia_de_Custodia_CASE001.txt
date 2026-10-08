@@ -1,0 +1,92 @@
+CADEIA DE CUSTÓDIA – CASE-001
+
+Identificação do Caso:
+CASE-001
+
+Identificação da Evidência:
+USB-001
+
+Tipo de Evidência:
+Dispositivo de armazenamento USB
+
+Capacidade:
+8 GB
+
+Descrição:
+Dispositivo USB utilizado em laboratório de investigação forense
+simulando possível armazenamento indevido de documentos corporativos.
+
+Responsável pela coleta:
+Laise Soares
+
+Data da coleta:
+07/10/2026
+
+Ferramenta utilizada:
+FTK Imager
+
+Formato da imagem forense:
+E01
+
+Nome da imagem:
+CASE001_USB001.E01
+
+HASH MD5:
+2f6f0c00db8c295545cc3d756c7faec7
+
+HASH SHA1:
+1343bebaedd2d6d22344bfa2679717f4eabfc4ff
+
+Resultado da verificação:
+Match
+
+Bad Blocks:
+No bad blocks found in image
+
+Observação:
+A análise será realizada sobre a imagem forense, preservando a mídia original.
+
+REGISTRO DE MOVIMENTAÇÃO
+
+1. Preparação do dispositivo
+Data/Hora:
+07/10/2026 - horário aproximado
+
+Ação:
+Preparação do dispositivo USB para o cenário de laboratório.
+
+Responsável:
+Laise Soares
+
+2. Aquisição forense
+Data/Hora:
+07/10/2026 - aproximadamente 21:51
+
+Ação:
+Aquisição forense do dispositivo USB utilizando FTK Imager.
+
+Responsável:
+Laise Soares
+
+3. Geração e validação dos hashes
+Data/Hora:
+07/10/2026 - aproximadamente 22:02
+
+Ação:
+Geração e validação dos hashes MD5 e SHA1.
+
+Resultado:
+Match
+
+Responsável:
+Laise Soares
+
+4. Imagem armazenada para análise
+Data/Hora:
+07/10/2026 - aproximadamente 22:02
+
+Ação:
+Imagem forense armazenada para análise no Autopsy.
+
+Responsável:
+Laise Soares
